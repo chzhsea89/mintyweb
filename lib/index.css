@@ -1,0 +1,126 @@
+
+#navbar{
+  width:100%;
+  background-color:orange;
+  padding:10px 0px 10px 0px;
+  text-align:center;
+ 
+  }
+
+
+
+
+li:link {
+  color : pink;
+  text-decoration: none;
+}
+
+
+nav ul{
+max-width:100%;
+display:inline;
+}
+
+nav li{
+  display:inline;
+  padding: 40px;
+  font-family: 'Lobster Two', 'cursive';
+
+  font-size: 24px;
+  color:white;
+  }
+nav li:link{ 
+  display:inline;
+  padding: 40px;
+  font-family: 'Lobster Two', 'cursive';
+  font-size: 24px;
+  color:white;
+    
+ }
+
+ nav a:link{
+  text-decoration: none;
+  color:white;
+  
+ }
+ 
+ 
+ nav a:visited {
+  color :white;
+  
+  text-decoration: none;
+}
+
+
+#title{
+  display:block;
+  text-align: center;
+  margin: 10px;
+}
+
+ figure{
+  display:block;
+  margin: 0 auto 50px auto;
+  text-align:center;
+
+  }
+#img-div{
+  background-color:white;
+  margin: 0 auto 50px auto;
+  padding:10px;
+  margin-bottom:40px;
+  padding-bottom:40px;
+  max-block-size: auto;
+}
+
+body{
+ margin: 0px;
+ background-color:#eee;
+}
+#timename{
+  display:block;
+  text-align: center;
+
+}
+#timeline{
+  display:block;
+  text-align: center;
+
+}
+
+#colums{
+  display: table-column;
+  columns:3;
+}
+
+
+ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    text-align: left;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    line-height: 1.6;
+}
+
+li{
+  text-align:left;
+  padding:5px;
+
+}
+
+p{
+  font-style:italic;
+  text-align: left;
+
+
+}
+
+footer{
+  text-align: cneter;
+}

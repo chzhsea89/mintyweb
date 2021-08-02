@@ -61,6 +61,7 @@ nav li:link{
  figure{
   display:block;
   margin: 0 auto 50px auto;
+  height:auto;
   text-align:center;
 
   }

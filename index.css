@@ -15,12 +15,6 @@ li:link {
   text-decoration: none;
 }
 
-
-nav ul{
-max-width:100%;
-display:inline;
-}
-
 nav li{
   display:inline;
   padding: 40px;

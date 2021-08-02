@@ -65,6 +65,7 @@ nav li:link{
 
   }
 #img-div{
+  display:block;
   background-color:white;
   margin: 0 auto;
   width:auto;

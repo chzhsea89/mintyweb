@@ -105,14 +105,20 @@ img{
   text-align:center;
 }
 
+
 #contents{
- display: block;
- max-width: 550px;
- text-align: left;
- font-size: x-large;
- font-weight: bold;
+  font-weight: bold;
+  text-align:left;
+  max-width: 100% auto;
  
+ }
+
+ @media(max-width:900px){
+  #contents{
+    font-size: 1.4rem;
+  }
 }
+
 
 #text{
   display: block;
